@@ -1,0 +1,75 @@
+html{
+background-image: url(../img/gohan.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+    
+}
+
+.dbkkdesc{
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 15%;
+
+}
+
+section{
+    display: flex;
+    justify-content: flex-start;  
+   
+    color: rgba(250, 230, 244, 1);
+    
+    background-color: rgba(0, 0, 0, 0.54);
+    
+
+}
+
+
+    
+
+.dbfz{
+    display: flex;
+    justify-content: flex-start
+
+}
+.dbfzdesc{
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 15%;
+
+}
+h3{
+    color: rgba(250, 230, 244, 1);
+    background-color: rgba(0, 0, 0, 0.54);
+}
+.promo{
+    color: rgba(250, 230, 244, 1);
+    background-color: rgba(0, 0, 0, 0.54);
+    margin-right: 70%;
+}
+h1{
+    color: rgba(250, 230, 244, 1);
+    background-color: rgba(0, 0, 0, 0.54);
+}
+h2{
+    color: rgba(250, 230, 244, 1);
+    background-color: rgba(0, 0, 0, 0.54);
+   
+}
+strong{
+    color: rgba(255, 0, 0, 0.7);
+    
+}
+.intro{
+    color: rgba(250, 230, 244, 1);
+    background-color: rgba(0, 0, 0, 0.54);
+
+}
+ li{
+
+list-style: none;
+color: rgba(250, 230, 244, 1); 
+}
+a{
+    text-decoration: none;
+}
